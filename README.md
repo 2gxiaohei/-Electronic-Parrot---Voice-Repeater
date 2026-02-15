@@ -186,7 +186,7 @@ void loop() {
 
 ## 📜 开源协议
 
-MIT License —— 随便玩，随便改，随便卖，出了问题别找我（但可以来GitHub提issue，我尽量救你）
+MIT License —— 随便玩，随便改，随便卖，出了问题别找我
 
 ---
 
