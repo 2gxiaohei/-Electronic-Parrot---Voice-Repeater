@@ -30,7 +30,8 @@
 
 ### 环境搭建
 
-首先下载ArduinoIDE，我用的是1.8.9版本：https://www.arduino.cc/en/software/，您也可以使用更新的版本。
+首先下载ArduinoIDE，我用的是1.8.9版本：https://www.arduino.cc/en/software/
+，您也可以使用更新的版本。
 
 安装结束后IDE里面安装一下ESP32 开发板的支持包：
 
